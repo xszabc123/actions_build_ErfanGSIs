@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_064_all_2009080056_338a836209c54a7e.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://dl3.smartisan.com/ota/rls.osborn-mol-4.4.0-20200416-SEKSA.osborn-user/202101191559/6.7.4.3-202101191441-user-ob-dfde6640b5.zip
+  ROM_NAME: smartisanOS
   TZ: Asia/Shanghai
 
 jobs:
